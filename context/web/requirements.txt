@@ -1,0 +1,4 @@
+openai
+docling
+pydantic
+python-dotenv
