@@ -106,3 +106,4 @@ qdrant_data/
 
 # Exclude video files
 *.mp4
+roadmaps/ai-engineer-2026.md
